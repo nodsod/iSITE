@@ -10,12 +10,10 @@ class App extends React.Component {
         <header className="App-header">
           <h1 className="App-title">iSITE</h1>
         </header>
-        <Body />
-        <Footer />
+        <Body/>
+        <Footer/>
       </div>
-
     );
   }
 }
-
 export default App;
